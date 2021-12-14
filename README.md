@@ -1672,9 +1672,3 @@ There are no official frontend operators, and the use of any frontend is made by
 
 User is solely responsible for complying with applicable law when interacting (in particular, when using GIVE, GUSD, GVTY or other Token) with the Givety Protocol Software whatsoever. 
 # givety
-
-# givety
-#   g i v e t y 
- 
- #   g i v e t y  
- 
